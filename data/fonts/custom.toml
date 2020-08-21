@@ -1,0 +1,11 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "family=Playfair+Display:ital,wght@0,400;0,900;1,400;1,900&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700"
+
+# Font families
+heading_font = "Playfair Display"
+body_font = "Source Sans Pro"
+nav_font = "Playfair Display"
+mono_font = "Roboto Mono"
